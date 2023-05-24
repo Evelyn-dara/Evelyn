@@ -20,7 +20,7 @@
 ### :woman_technologist: About Me :
 I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m working as a Software Engineer and contributing to front end for building web applications.
+- :telescope: I’m open to internship oppoertunities as a front end developer.
 
 - :seedling: Exploring more front end frameworks.
 
